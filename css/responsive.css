@@ -4,7 +4,7 @@
  padding: 40px 0;
 }
  #header.fixed a {
- color: #353535;
+ color: #ffffff;
 }
  .nav-toggle {
  display: block;
@@ -78,7 +78,7 @@
     color: #fff;
 }
 #header.fixed a.logo{
-	 color: #000;
+	 color: #ffffff;
 }
  .banner-text {
  padding-top: 30%;

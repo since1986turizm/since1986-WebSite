@@ -117,14 +117,14 @@ ul li {
 	}
 	#header .logo {
 		float: left;
-		font-size: 20px;
+		font-size: 30px;
 		font-weight: 700;
 		color: #0000CD;
 		text-decoration: none;
 		text-transform: uppercase;
 		letter-spacing: 1px;
 		/* border: 1px solid #fff; */
-		padding: 8px 15px;
+		padding: 8px 8px;
 		margin-top: -15px;
 		font-weight: bolder;
 	}
