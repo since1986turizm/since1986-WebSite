@@ -464,7 +464,7 @@ padding-bottom: 30px;
 		padding-bottom: 20px;
 	}
 .teams h2, .gallery h2, .services h2, #contact h2{
-	color:#000;
+	color:#ffffff;
 }
 .section-header p{
 	
@@ -484,7 +484,7 @@ color: #fff;
 .services-content {
 	padding: 28px 30px 20px;
 	margin-top: 30px;
-	/* border-top: 1px dashed #ffffff; */
+	 border-top: 1px dashed #ffffff; 
 	/* text-align: left; */
 	content: '';
 	position: relative;
@@ -603,12 +603,12 @@ h2 {
 .packageList .section-header p{
 	color:#000;
 }
-h5 {
+.h4 {
     font-size: 1.286em;
     font-weight: 500;
     margin: 0.3em 0;
     text-transform: capitalize;
-    color: #000;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 ul.list-default {
